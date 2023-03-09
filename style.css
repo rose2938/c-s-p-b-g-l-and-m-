@@ -1,0 +1,30 @@
+body{
+    background-color: bisque;
+}
+
+img{
+width: 100px;
+height: 100px;
+}
+
+.test_image_and_result{
+    background-color: greenyellow;
+}
+
+h5{
+    background-color: white;
+    color: red;
+}
+
+.mini_result
+{
+    color: white;
+}
+
+h3{
+    color:red
+}
+h4{
+    background-color: blue;
+    color:white;
+}
